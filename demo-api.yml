@@ -1,7 +1,4 @@
 spring:
-  cloud:
-    name: demo-api
-
   boot:
     admin:
       client:
