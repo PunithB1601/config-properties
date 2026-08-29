@@ -10,3 +10,4 @@ management:
       exposure:
         include: "*"
 
+message: "This is a test message from config server"
