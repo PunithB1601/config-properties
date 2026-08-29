@@ -13,4 +13,3 @@ management:
       exposure:
         include: "*"
 
-message: "Welcome to the world of Microservices"
